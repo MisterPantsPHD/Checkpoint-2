@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="7">
+
+  <testsuite name="basics"
+    errors="0" failures="0" hostname="" id="" package="basics" skipped="0"
+    tests="7" time="3.214" timestamp="">
+  
+    <testcase name="Evens and Odds Test 1" classname="basics" time="0.9730" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Evens And odds Test 2" classname="basics" time="0.3800" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Filter Objects Test" classname="basics" time="0.3610" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Filter Strings Test" classname="basics" time="0.3690" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Palindrome True Test" classname="basics" time="0.3630" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Palindrome False Test" classname="basics" time="0.3370" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Sum Test" classname="basics" time="0.4310" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
